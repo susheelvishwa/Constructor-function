@@ -6,7 +6,7 @@ function loginData(username, email, passward, login) {
     obj.email = email
     obj.passward = passward
     obj.login = function () {
-        console.log(`user ${username} logged in`);
+        console.log(`user ${this.username} logged in`);
     }
 
     

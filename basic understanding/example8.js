@@ -2,7 +2,7 @@
 
 // it is used to create dynamic object
 
-function studentData(name, enrollment_number, section, passing_year) {
+function StudentData(name, enrollment_number, section, passing_year) {
   
   this.name = name;
   this.enrollment_number = enrollment_number;
@@ -11,7 +11,7 @@ function studentData(name, enrollment_number, section, passing_year) {
 
 }
 
-let student1 = new studentData("pillu", 119, "B", 2024);
-let student2 = new studentData("chomu", 204, "A", 331);
+let student1 = new StudentData("pillu", 119, "B", 2024);
+let student2 = new StudentData("chomu", 204, "A", 331);
 
 console.log(student1, student2);

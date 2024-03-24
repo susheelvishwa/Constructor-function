@@ -27,7 +27,24 @@ ussing bind we can handle it
 
 
 
-# what is a factory funct ion
+
+# what is a factory function
+    this is secound way to make a object
+    # explicity
+
+# what is constructor function
+    this is threid way to make a constructor function
+    # implicity
+
+    :- it is used to create dynamic object
+
+    --> this
+    1. create a new object
+
+    --> new : it create new instance of object
+    new keywaord do two this at a time its optmise the code
+    2. also give return 
+
 
 
 
