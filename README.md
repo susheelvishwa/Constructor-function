@@ -46,6 +46,22 @@ ussing bind we can handle it
     2. also give return 
 
 
+can we update const --> no, but
+we change the property of the variable
+
+
+example:
+
+const studentData = {
+    name: "susheel",
+    position: "SDE-1"
+}
+
+so if i try to do this thing --> student = "string"
+
+so it is not posible, but we can change property of the variable 
+
+studentData.name = "pillu" so its posible
 
 
 
