@@ -1,10 +1,5 @@
-let frute2 = {
-//   id: 1,
-//   frutename: "apple",
+let student = {
+//   name: "susheel",
+//   branch: "computer science",
+//   passing_year: "2024",
 // };
-// function fruteprinter(color, teste) {
-//   this.color = color;
-//   this.teste = teste;
-//   console.log(this);
-// }
-// fruteprinter.apply(frute2, ["green", "sour"]);
