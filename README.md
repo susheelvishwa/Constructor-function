@@ -22,6 +22,11 @@ evrythis is same the diffrence is how to call
 thats means dont repeat yourself 
 ussing bind we can handle it
 
+
+# how to make object
+
+
+
 # what is a factory funct ion
 
 
